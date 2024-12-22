@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/movie2-app/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/movie2-app/static/js/main.7988e357.chunk.js",
+    "main.js.map": "/movie2-app/static/js/main.7988e357.chunk.js.map",
+    "runtime~main.js": "/movie2-app/static/js/runtime~main.6075f27f.js",
+    "runtime~main.js.map": "/movie2-app/static/js/runtime~main.6075f27f.js.map",
+    "static/js/2.16f2d6b9.chunk.js": "/movie2-app/static/js/2.16f2d6b9.chunk.js",
+    "static/js/2.16f2d6b9.chunk.js.map": "/movie2-app/static/js/2.16f2d6b9.chunk.js.map",
+    "index.html": "/movie2-app/index.html",
+    "precache-manifest.4cfe3e693e9c03f5cd1492e0a7b65d73.js": "/movie2-app/precache-manifest.4cfe3e693e9c03f5cd1492e0a7b65d73.js",
+    "service-worker.js": "/movie2-app/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/movie2-app/static/css/main.5ecd60fb.chunk.css.map"
+  }
+}
